@@ -1,5 +1,7 @@
 # guasha_code
 
+[![DOI](https://zenodo.org/badge/532288436.svg)](https://zenodo.org/badge/latestdoi/532288436)
+
 Code for the Gua Sha paper.
 
 ## Scripts
